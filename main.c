@@ -3,6 +3,6 @@
 
 int main(void){
 	printf("Ciao Silvia, bella de papa'!!\n");
-	int paghetta = 350;
+	int paghetta = 500;
 	return 0;
 } 
